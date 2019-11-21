@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "Bijan Fazeli",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.3.4",
+    "readline-sync": "^1.4.10"
+  }
 }
